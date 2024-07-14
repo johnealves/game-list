@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/botton_games"
+        android:icon="@mipmap/list_icon"
+        android:title="games" />
+    <item
+        android:id="@+id/botton_ny_games"
+        android:icon="@mipmap/user_icon"
+        android:title="meus jogos" />
+</menu>
